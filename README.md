@@ -1,7 +1,11 @@
-### Hi there 👋
+<h1>Hi, I'm Gosia! <br/><a href="https://github.com/g0s1a">Data analyst</a></h1>
+
+<h2>👨‍💻 Projects:</h2>
+
+
 
 <!--
-**g0s1a/g0s1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
